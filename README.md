@@ -1,11 +1,12 @@
 # Project
 
-- [FrontEnd](https://github.com/pesto-students/little-tags-piyush-Ranjan-Mishra-frontend )
+- [FrontEnd](https://github.com/Piyush-Ranjan-Mishra/femgame.git)
 
 - [BackEnd](https://github.com/pesto-students/little-tags-nitingpt000-backend )
 
 
 - [About](#Femgame)
+- [Screenshots](#Screenshots)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Running tests](#running-tests)
@@ -33,6 +34,16 @@ With all the prereqs installed:
 4.  Run `yarn start` to start the react dev server in specified environment.
 5.  Open <http://localhost:3000> on your browser
 
+# Screenshots
+
+|                                    |                                        |
+| :--------------------------------: | :------------------------------------: |
+|     ![](snapshots/home.png)     |  ![](snapshots/pdp.png)  |
+| ![](snapshots/search-product.png) |     ![](snapshots/cart.png)      |
+|     ![](snapshots/delivery.png)     |     ![](snapshots/checkout.png)     |
+|    ![](snapshots/payment.png)    | ![](snapshots/payment.png) |
+
+
 # Performance
 
 1. Pre-rendered static website(SSR)
@@ -40,6 +51,7 @@ With all the prereqs installed:
 3. Implemented lazy loading and skeleton ui
 4. Used webp image for faster rendering
 5. Used different image sizes for mobile to reduce bandwidth charge for users
+|    ![](snapshots/web-perf.png)    | ![](snapshots/mobile-perf.png) |
 
 # Femgame
 
