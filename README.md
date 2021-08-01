@@ -1,8 +1,8 @@
 # Project
 
-- [FrontEnd](https://github.com/Piyush-Ranjan-Mishra/femgame.git)
+- [FrontEnd](https://github.com/Piyush-Ranjan-Mishra/femgame-fe.git)
 
-- [BackEnd](https://github.com/pesto-students/little-tags-nitingpt000-backend )
+- [BackEnd](https://github.com/Piyush-Ranjan-Mishra/femgame-be.git)
 
 
 - [About](#Femgame)
